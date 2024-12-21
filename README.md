@@ -1,4 +1,6 @@
-# 💫 **SANJAY J**
+<div align="center">
+  <h1>💫 SANJAY J 💫</h1>
+</div>
 Hi, I’m Sanjay!<br>I am passionate about developing impactful web applications, leveraging frameworks such as React, Angular, and Node.js alongside MongoDB. My work spans crafting AI-powered solutions, streamlining processes, and designing seamless user experiences. With a strong interest in cloud technologies and a research publication in the firmware domain, I am committed to continuous learning and innovation.<br><br>
 
 
