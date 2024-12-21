@@ -7,7 +7,7 @@ Hi, I’m Sanjay!<br>I am passionate about developing impactful web applications
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayj08) 
 
-## 🛠️ Technologies I Use
+## 🛠️ Technologies I Use:
 
 <div align="center">
   <a href="https://www.python.org" target="_blank">
@@ -28,7 +28,26 @@ Hi, I’m Sanjay!<br>I am passionate about developing impactful web applications
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
   </a>
+  <a href="https://gemini.google.com/intl/en_us/ai/" target="_blank">
+    <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI">
+  </a>
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  </a>
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  </a>
+  <a href="https://vercel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  </a>
+  <a href="https://www.twilio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio">
+  </a>
+  <a href="https://streamlit.io" target="_blank">
+    <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  </a>
 </div>
+
 
 
 # 📊 GitHub Stats
